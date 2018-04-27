@@ -30,7 +30,7 @@ const handlers = {
       path: '/'+path,
       method: 'POST',
       headers: {
-        'user': '607cd094-2842-4c5b-b9d6-d42079ebaad7'
+        'user': ''
       }
     };
 
@@ -68,7 +68,7 @@ const handlers = {
       path: '/color?color='+color,
       method: 'POST',
       headers: {
-        'user': '607cd094-2842-4c5b-b9d6-d42079ebaad7'
+        'user': ''
       }
     };
 
@@ -103,7 +103,7 @@ const handlers = {
       path: '/rainbow?cycle=cycle',
       method: 'GET',
       headers: {
-        'user': '607cd094-2842-4c5b-b9d6-d42079ebaad7'
+        'user': ''
       }
     };
 
