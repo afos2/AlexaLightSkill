@@ -1,7 +1,7 @@
 const Alexa = require('alexa-sdk');
 const http = require('https');
 
-const appId = 'amzn1.ask.skill.1cd0b48f-fc8e-428a-b7ab-b22e85367e6b';
+const appId = '';
 
 const instructions = `Welcome to Smart Light<break strength="medium" /> 
                       The following commands are available: change color, turn on,
